@@ -106,16 +106,27 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          may present issues if the menu is too large.
 #          (in bootstrap3, the navbar can grow too large and cover contents.)
 
+#NAVIGATION_LINKS = {
+#    DEFAULT_LANG: (
+#        ("/archive.html", "Archive"),
+#        ("/categories/index.html", "Tags"),
+#        ("/rss.xml", "RSS feed"),
+#    ),
+#}
+
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    ),
+	DEFAULT_LANG: (
+		('/index.html', 'Home', 'icon-home'),
+		('/archive.html', 'Archives', 'icon-folder-open-alt'),
+		('/categories/index.html', 'Tags', 'icon-tags'),
+		('http://www.42.fr', 'About me', 'icon-user'),
+		('https://github.com/jspezia', 'My Github', 'icon-github'),
+	)
 }
 
+
 # Name of the theme to use.
-THEME = "ipython-xkcd"
+THEME = "zen-ipython"
 
 # Below this point, everything is optional
 
@@ -176,10 +187,14 @@ TIMEZONE = "Europe/Paris"
 POSTS = (
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
+    ("posts/*.ipynb", "posts", "post.tmpl"),
+    ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
     ("stories/*.rst", "stories", "story.tmpl"),
     ("stories/*.txt", "stories", "story.tmpl"),
+    ("stories/*.md", "stories", "story.tmpl"),
+    ("stories/*.ipynb", "stories", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
