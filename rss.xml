@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>blogtuto</title><link>http://jspezia.github.io/blogtuto/</link><description>How to create a blog on github.io with nikola and notebook.</description><language>en</language><lastBuildDate>Fri, 26 Sep 2014 17:25:13 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>So far so good...</title><link>http://jspezia.github.io/blogtuto/posts/so-far-so-good.html</link><dc:creator>jspezia</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>blogtuto</title><link>http://jspezia.github.io/blogtuto/</link><description>How to create a blog on github.io with nikola and notebook.</description><language>en</language><lastBuildDate>Sat, 27 Sep 2014 00:31:06 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>So far so good...</title><link>http://jspezia.github.io/blogtuto/posts/so-far-so-good.html</link><dc:creator>jspezia</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
     &lt;div class="container" id="notebook-container"&gt;
 
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
@@ -52,11 +52,23 @@
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#How-to-create-a-website-github.io"&gt;How to create a website github.io&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#How-to-create-a-website-github.io"&gt;How to create a website github.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#What-about-nikola"&gt;What about nikola&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#What-about-notebook"&gt;What about notebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Useful-tools-and-tutorials"&gt;Useful tools and tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Why-divide-the-working-directory-on-github"&gt;Why divide the working directory on github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Initialize-nikola"&gt;Initialize nikola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Magic-gh-pages"&gt;Magic gh-pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#What-about-nikola-and-notebook"&gt;What about nikola&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#conf.py"&gt;conf.py&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#deploy.sh"&gt;deploy.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#nikola-auto"&gt;nikola auto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Useful-tools-and-tutorials"&gt;Useful tools and tutorials&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Github"&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#nikola"&gt;nikola&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#notebook"&gt;notebook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -71,19 +83,6 @@
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class="cell border-box-sizing text_cell rendered"&gt;
-&lt;div class="prompt input_prompt"&gt;
-&lt;/div&gt;
-&lt;div class="inner_cell"&gt;
-&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Why-divide-the-working-directory-on-github"&gt;Why divide the working directory on github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Initialize-nikola"&gt;Initialize nikola&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Magic-gh-pages"&gt;Magic gh-pages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
 &lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;
@@ -504,7 +503,7 @@ In []:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="What-about-nikola"&gt;What about nikola&lt;a class="anchor-link" href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#What-about-nikola"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="What-about-nikola-and-notebook"&gt;What about nikola and notebook&lt;a class="anchor-link" href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#What-about-nikola-and-notebook"&gt;¶&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -514,11 +513,274 @@ In []:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="What-about-notebook"&gt;What about notebook&lt;a class="anchor-link" href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#What-about-notebook"&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id="conf.py"&gt;conf.py&lt;a class="anchor-link" href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#conf.py"&gt;¶&lt;/a&gt;&lt;/h4&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;You must change your conf.py that notebook is compatible with nikola.&lt;/p&gt;
+&lt;p&gt;Add this two lines in POSTS = ( )&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;"posts/*ipynb"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;"posts"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;"post.tmpl"&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;"posts/*html"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;"posts"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;"post.tmpl"&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;and this two lines in PAGES = ( )&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;"stories/*ipynb"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;"stories"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;"story.tmpl"&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;"stories/*md"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;"stories"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;"story.tmpl"&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;You need to specify to nikola what type of post you want to generate (ipnb rst etc) :&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;nikola&lt;/span&gt; &lt;span class="n"&gt;new_post&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;ARG&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h4 id="deploy.sh"&gt;deploy.sh&lt;a class="anchor-link" href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#deploy.sh"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;You can automate the deployment of your gh-pages putting in conf.py&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;DEPLOY_COMMAND&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s"&gt;"./deploy.sh"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+                    &lt;span class="s"&gt;"git add ."&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+                    &lt;span class="s"&gt;"git commit -m 'Update'"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+                    &lt;span class="s"&gt;"git push origin &amp;lt;site_branch&amp;gt;"&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;and in your deploy.sh:&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c"&gt;#! /bin/sh&lt;/span&gt;
+
+&lt;span class="n"&gt;mv&lt;/span&gt; &lt;span class="n"&gt;output&lt;/span&gt; &lt;span class="o"&gt;~&lt;/span&gt;
+&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;checkout&lt;/span&gt; &lt;span class="n"&gt;gh&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pages&lt;/span&gt;
+&lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;rf&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
+&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;r&lt;/span&gt; &lt;span class="o"&gt;.&lt;/span&gt;
+&lt;span class="n"&gt;mv&lt;/span&gt; &lt;span class="o"&gt;~/&lt;/span&gt;&lt;span class="n"&gt;output&lt;/span&gt;&lt;span class="o"&gt;/*&lt;/span&gt; &lt;span class="o"&gt;./&lt;/span&gt;
+&lt;span class="n"&gt;rm&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;rf&lt;/span&gt; &lt;span class="o"&gt;~/&lt;/span&gt;&lt;span class="n"&gt;output&lt;/span&gt;
+&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;add&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt;
+&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;commit&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;m&lt;/span&gt; &lt;span class="s"&gt;'Update'&lt;/span&gt;
+&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;push&lt;/span&gt; &lt;span class="n"&gt;origin&lt;/span&gt; &lt;span class="n"&gt;gh&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pages&lt;/span&gt;
+&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;checkout&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;site_branch&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;branch&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt; &lt;span class="n"&gt;gh&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pages&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;Here if you only want to deploy your site, launch:&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="o"&gt;./&lt;/span&gt;&lt;span class="n"&gt;deploy&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sh&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;If you want to back up everything and push:&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;nikola&lt;/span&gt; &lt;span class="n"&gt;deploy&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h4 id="nikola-auto"&gt;nikola auto&lt;a class="anchor-link" href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#nikola-auto"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;You need &lt;a href="https://pypi.python.org/pypi/livereload"&gt;livereload&lt;/a&gt;. Open a notebook:&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;ipython&lt;/span&gt; &lt;span class="n"&gt;notebook&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;And just launch:&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;
+In []:
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;nikola&lt;/span&gt; &lt;span class="n"&gt;auto&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;And go to your browser on port 127.0.0.1:8000 to see the result in local. You can see in real time the changes on your site&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
 &lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;
@@ -529,6 +791,73 @@ In []:
 &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h4 id="Github"&gt;Github&lt;a class="anchor-link" href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#Github"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://git-scm.com/doc"&gt;tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h4 id="nikola"&gt;nikola&lt;a class="anchor-link" href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#nikola"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://getnikola.com/documentation.html"&gt;tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://areskibelaid.com/nikola-one-kickass-site-generator/"&gt;nikola, one kickass site generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.damian.oquanta.info/posts/deploy-your-nikola-powered-blog-content-from-the-ipython-notebook.html"&gt;Deploy your nikola-powered content from the IPython notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.damian.oquanta.info/posts/ipython-plugin-for-nikola-updated.html"&gt;IPython plugin for Nikola updated&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brunettoziosi.eu/posts/blogging-with-nikola-ipython-github.html"&gt;Blogging with Nikola + Ipython + Git(Hub)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;h4 id="notebook"&gt;notebook&lt;a class="anchor-link" href="http://jspezia.github.io/blogtuto/posts/so-far-so-good.html#notebook"&gt;¶&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;
+&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://ipython.org/ipython-doc/stable/index.html"&gt;tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 </description><guid>http://jspezia.github.io/blogtuto/posts/so-far-so-good.html</guid><pubDate>Fri, 26 Sep 2014 08:39:19 GMT</pubDate></item><item><title>Welcome to Nikola</title><link>http://jspezia.github.io/blogtuto/posts/welcome-to-nikola.html</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;div&gt;&lt;div class="figure"&gt;
