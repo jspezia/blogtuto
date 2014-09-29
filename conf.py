@@ -118,7 +118,7 @@ NAVIGATION_LINKS = {
 	DEFAULT_LANG: (
 		('/index.html', 'Home', 'icon-home'),
 		('/archive.html', 'Archives', 'icon-folder-open-alt'),
-		('/categories/index.html', 'Tags', 'icon-tags'),
+		('/categories/index.html', 'Tags', 'icon-search'),
 		('http://www.42.fr', 'About me', 'icon-user'),
 		('https://github.com/jspezia', 'My Github', 'icon-github'),
 	)
@@ -430,10 +430,10 @@ REDIRECTIONS = []
 # FAVICONS contains (name, file, size) tuples.
 # Used for create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = {
-#     ("icon", "/favicon.ico", "16x16"),
+FAVICONS = {
+     ("icon", "favicon.ico", "16x16"),
 #     ("icon", "/icon_128x128.png", "128x128"),
-# }
+ }
 
 # Show only teasers in the index pages? Defaults to False.
 # INDEX_TEASERS = False
