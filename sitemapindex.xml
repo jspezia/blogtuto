@@ -6,34 +6,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://jspezia.github.io/blogtuto/categories/blog.xml</loc>
-  <lastmod>2014-09-26</lastmod>
+  <lastmod>2014-09-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jspezia.github.io/blogtuto/categories/demo.xml</loc>
-  <lastmod>2014-09-26</lastmod>
+  <lastmod>2014-09-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jspezia.github.io/blogtuto/categories/nikola.xml</loc>
-  <lastmod>2014-09-26</lastmod>
+  <lastmod>2014-09-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jspezia.github.io/blogtuto/categories/python.xml</loc>
-  <lastmod>2014-09-26</lastmod>
+  <lastmod>2014-09-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jspezia.github.io/blogtuto/galleries/demo/rss.xml</loc>
-  <lastmod>2014-09-26</lastmod>
+  <lastmod>2014-09-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jspezia.github.io/blogtuto/galleries/rss.xml</loc>
-  <lastmod>2014-09-26</lastmod>
+  <lastmod>2014-09-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jspezia.github.io/blogtuto/rss.xml</loc>
-  <lastmod>2014-09-26</lastmod>
+  <lastmod>2014-09-29</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jspezia.github.io/blogtuto/sitemap.xml</loc>
-  <lastmod>2014-09-26</lastmod>
+  <lastmod>2014-09-29</lastmod>
  </sitemap>
 </sitemapindex>
